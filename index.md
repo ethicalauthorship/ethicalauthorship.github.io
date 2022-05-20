@@ -46,19 +46,19 @@ Research ethics: “Ethics are a personal code of conduct based on respect for o
 
 ## References
 
-[1] University of Sterling: “Understanding Ethics” [https://www.stir.ac.uk/research/research-ethics-and-integrity/understanding-ethics/]
+[1] University of Sterling: “Understanding Ethics” [https://www.stir.ac.uk/research/research-ethics-and-integrity/understanding-ethics/](https://www.stir.ac.uk/research/research-ethics-and-integrity/understanding-ethics/)
  
-[2] City University of Hong Kong: “Research Ethics” [https://libguides.library.cityu.edu.hk/researchmethods/ethics]
+[2] City University of Hong Kong: “Research Ethics” [https://libguides.library.cityu.edu.hk/researchmethods/ethics](https://libguides.library.cityu.edu.hk/researchmethods/ethics)
  
-[3] Australian Code for the Responsible Conduct of Research, 2018. [https://www.nhmrc.gov.au/file/14384/download?token=gje4DNtT]
+[3] Australian Code for the Responsible Conduct of Research, 2018. [https://www.nhmrc.gov.au/file/14384/download?token=gje4DNtT](https://www.nhmrc.gov.au/file/14384/download?token=gje4DNtT)
  
-[4] J. Mandal, S.C. Parija “Ethics of authorship in scientific publications.” Trop Parasitol 3(2): 104–105, 2013. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889085/] 
+[4] J. Mandal, S.C. Parija “Ethics of authorship in scientific publications.” Trop Parasitol 3(2): 104–105, 2013. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889085/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889085/) 
  
-[5] J. Mandal, D.K. Ponnambath, S.C. Parija. “Ethics of scientific publication.” Trop Parasitol 6:100-2, 2016. [https://www.tropicalparasitology.org/text.asp?2016/6/2/100/190811]
+[5] J. Mandal, D.K. Ponnambath, S.C. Parija. “Ethics of scientific publication.” Trop Parasitol 6:100-2, 2016. [https://www.tropicalparasitology.org/text.asp?2016/6/2/100/190811](https://www.tropicalparasitology.org/text.asp?2016/6/2/100/190811)
  
-[6] Predatory journals: [https://en.wikipedia.org/wiki/Predatory_publishing]
+[6] Predatory journals: [https://en.wikipedia.org/wiki/Predatory_publishing](https://en.wikipedia.org/wiki/Predatory_publishing)
 
-[7] A. Grudniewicz, D. Moher, K.D. Cobey, G. L. Bryson, S. Cukier, K. Allen, ... & M. M. Lalu. “Predatory journals: no definition, no defence,” Nature, 2019. [https://www.nature.com/articles/d41586-019-03759-y]
+[7] A. Grudniewicz, D. Moher, K.D. Cobey, G. L. Bryson, S. Cukier, K. Allen, ... & M. M. Lalu. “Predatory journals: no definition, no defence,” Nature, 2019. [https://www.nature.com/articles/d41586-019-03759-y](https://www.nature.com/articles/d41586-019-03759-y)
 
-[8] F.T. Grifo, G.S. Russo, M. Otto. “Scientific Integrity. Best Practices for Designating Authorship.” US Environmental Protection Agency. 2016. [https://www.epa.gov/scientific-integrity/authorship-best-practices] 
+[8] F.T. Grifo, G.S. Russo, M. Otto. “Scientific Integrity. Best Practices for Designating Authorship.” US Environmental Protection Agency. 2016. [https://www.epa.gov/scientific-integrity/authorship-best-practices](https://www.epa.gov/scientific-integrity/authorship-best-practices) 
 
