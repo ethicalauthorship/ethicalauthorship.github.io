@@ -1,5 +1,6 @@
 # Ethical Authorship
 
+<hr>
 *Versión en español*
 
 Recientemente, la [DORA](https://sfdora.org/), el [Manifesto de Leiden](http://www.leidenmanifesto.org/), los [Principios de Hong Kong](https://osf.io/m9abx/) y la [Declaración de Málaga](https://declaracionmalaga2020.github.io/) abordan temas claves para mejorar la evaluación de la investigación desde la perspectiva del evaluador. Complementariamente, pensamos que es también necesario considerar la responsabilidad del investigador individual.
@@ -18,7 +19,7 @@ Si quieres sumarte a este compromiso, rellena por favor tu nombre, apellidos e i
 
 [https://forms.gle/oR5bCNV4EG3ffM6d7](https://forms.gle/oR5bCNV4EG3ffM6d7)
 
-
+<hr>
 *English version*
 
 The [DORA Declaration](https://sfdora.org/), the [Leiden Manifesto](http://www.leidenmanifesto.org/), the [Hong Kong Principales](https://osf.io/m9abx/) and the [Málaga Declaration](https://declaracionmalaga2020.github.io/) address core issues to improve research evaluation from the point of view of evaluators. Complementarily, we firmly believe that the responsibility of the individual researchers should be considered, too. 
@@ -41,6 +42,7 @@ Should you wish to join this Commitment, please fill in your name and academic i
 1.	Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea, Spain
 2.	Antonio Vallecillo – Universidad de Málaga, Spain 
 
+<hr>
 # References/Further reading
 Research ethics: “Ethics are a personal code of conduct based on respect for one's self, others and surroundings and is governed by the principles or assumptions underpinning the way individuals or organizations ought to conduct themselves. Research ethics involves the application of fundamental ethical principles to research activities which include the design and implementation of research, respect towards society and others, the use of resources and research outputs, scientific misconduct and the regulation of research.” [1]
 
