@@ -1,6 +1,5 @@
 # Ethical Authorship
 
-<hr>
 *Versión en español*
 
 Recientemente, la [DORA](https://sfdora.org/), el [Manifesto de Leiden](http://www.leidenmanifesto.org/), los [Principios de Hong Kong](https://osf.io/m9abx/) y la [Declaración de Málaga](https://declaracionmalaga2020.github.io/) abordan temas claves para mejorar la evaluación de la investigación desde la perspectiva del evaluador. Complementariamente, pensamos que es también necesario considerar la responsabilidad del investigador individual.
