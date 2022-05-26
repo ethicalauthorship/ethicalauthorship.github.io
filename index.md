@@ -41,7 +41,9 @@ Should you wish to join this Commitment, please fill in your name and academic i
 # Firmas/Signatories
 
 1.	Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea, Spain
-2.	Antonio Vallecillo – Universidad de Málaga, Spain 
+2.	Antonio Vallecillo – Universidad de Málaga, Spain
+3.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha, Spain
+4.  Antonio Ruiz-Cortés - Universidad de Sevilla, Spain
 
 <hr>
 # References/Further reading
