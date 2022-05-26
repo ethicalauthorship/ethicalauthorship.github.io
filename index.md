@@ -11,8 +11,9 @@ Desde esta perspectiva, explicitamos el siguiente compromiso a modo de buenas pr
 Para mostrar públicamente nuestro compromiso con la investigación, y en particular con la publicación de artículos científicos, los abajo firmantes nos comprometemos a respetar las siguientes buenas prácticas:
 
 - No publicar en revistas predatorias
-- No firmar artículos en los que no hayamos contribuido significativamente
+- No firmar artículos en los que no haya contribuido significativamente
 - No incluir citas a trabajos que no sean realmente necesarias (incluyendo las autocitas)
+- Defender, aplicar y promover estas prácticas en todos los ámbitos de evaluación en los que participe
 
 Si quieres sumarte a este compromiso, rellena por favor tu nombre, apellidos e institución académica en el siguiente formulario:
 
@@ -31,6 +32,7 @@ In order to declare our commitment to research, and in particular to ethics in t
 - I will not publish in predatory journals
 - I will not sign as author of a paper to which I have not significantly contributed
 - I will not include any unnecessary citations (especially self-citations)
+- I will advocate, apply and promote these practices in all research evaluations in which I participate
 
 Should you wish to join this Commitment, please fill in your name and academic institution in the following form.
 
