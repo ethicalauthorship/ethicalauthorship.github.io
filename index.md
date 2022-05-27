@@ -41,21 +41,21 @@ Should you wish to join this Commitment, please fill in your name and academic i
 # Firmas/Signatories
 
  1.  Coral Calero - Universidad de Castilla-La Mancha
- 2.  Claudio de la Riva Álvarez - Universidad de Oviedo
- 3.  Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea
- 4.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
- 5.  María del Mar Gallardo Melgarejo - Universidad de Málaga
- 6.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
- 7.  Fernando Orejas - Universitat Politècnica de Catalunya
- 8.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha
- 9.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
-10.  Antonio Ruiz Cortés - Universidad de Sevilla
+ 2.  Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea
+ 3.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+ 4.  María del Mar Gallardo Melgarejo - Universidad de Málaga
+ 5.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
+ 6.  Fernando Orejas - Universitat Politècnica de Catalunya
+ 7.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha
+ 8.  Claudio de la Riva Álvarez - Universidad de Oviedo
+ 9.  Antonio Ruiz Cortés - Universidad de Sevilla
+10.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
 11.  Ernest Teniente - Universitat Politècnica de Catalunya
 12.  Miguel Toro Bonilla - Universidad de Sevilla
 13.  Javier Tuya - Universidad de Oviedo
 14.  Antonio Vallecillo - Universidad de Málaga
 
-	
+
 
 <hr>
 # References/Further reading
