@@ -47,6 +47,8 @@ Should you wish to join this Commitment, please fill in your name and academic i
 5.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
 6.  Ernest Teniente - Universitat Politècnica de Catalunya
 7.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
+8.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
+9.  Javier Tuya - Universidad de Oviedo
 	
 
 <hr>
