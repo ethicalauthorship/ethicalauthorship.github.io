@@ -41,14 +41,14 @@ Should you wish to join this Commitment, please fill in your name and academic i
 # Firmas/Signatories
 
 1.  Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea
-2.  Antonio Vallecillo – Universidad de Málaga
-3.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha
-4.  Antonio Ruiz Cortés - Universidad de Sevilla
-5.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
-6.  Ernest Teniente - Universitat Politècnica de Catalunya
-7.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
-8.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
-9.  Javier Tuya - Universidad de Oviedo
+2.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+3.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
+4.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha
+5.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
+6.  Antonio Ruiz Cortés - Universidad de Sevilla
+7.  Ernest Teniente - Universitat Politècnica de Catalunya
+8.  Javier Tuya - Universidad de Oviedo
+9.  Antonio Vallecillo – Universidad de Málaga
 	
 
 <hr>
