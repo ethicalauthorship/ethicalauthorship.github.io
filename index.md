@@ -40,7 +40,9 @@ Should you wish to join this Commitment, please fill in your name and academic i
 
 # Firmas/Signatories
 
+Lola Burgueño - Universitat Oberta de Catalunya
  1.  Coral Calero - Universidad de Castilla-La Mancha
+Carlos Canal - Universidad de Málaga
  2.  Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea
  3.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
  4.  María del Mar Gallardo Melgarejo - Universidad de Málaga
@@ -48,6 +50,7 @@ Should you wish to join this Commitment, please fill in your name and academic i
  6.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
  7.  Juan Hernández - Universidad de Extremadura
  8.  Paqui Lucio Carrasco - Universidad del País Vasco
+Paula Muñoz - Universidad de Málaga
  9.  Fernando Orejas - Universitat Politècnica de Catalunya
 10.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha
 11.  Ernesto Pimentel - Universidad de Málaga
@@ -58,10 +61,9 @@ Should you wish to join this Commitment, please fill in your name and academic i
 16.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
 17.  Ernest Teniente - Universitat Politècnica de Catalunya
 18.  Miguel Toro Bonilla - Universidad de Sevilla
+Javier Troya - Universidad de Málaga
 19.  Javier Tuya - Universidad de Oviedo
 20.  Antonio Vallecillo - Universidad de Málaga
-
-
 
 
 <hr>
