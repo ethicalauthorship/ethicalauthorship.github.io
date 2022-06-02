@@ -108,8 +108,5 @@ Research ethics: “Ethics are a personal code of conduct based on respect for o
 
 <hr>
 
-<small>* Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un [correo](mailto:av@uma.es).<br>* *Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es).*
-<br>
-<br>
-* El proceso de actualización de la lista es moderado para evitar que haya inscripciones duplicadas o se incluyan identidades falsas. Esto puede producir retrasos de unas horas desde que rellenas el formulario hasta que tu nombre aparece en la lista. <br>* *The process of updating the list is moderated to avoid duplicate entries or false identities. Once you have filled the form, please allow a few  hours before your name appears in the list.*
+<small>* Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un [correo](mailto:av@uma.es).<br>* *Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es).* <br>* El proceso de actualización de la lista es moderado para evitar que haya inscripciones duplicadas o se incluyan identidades falsas. Esto puede producir retrasos de unas horas desde que rellenas el formulario hasta que tu nombre aparece en la lista. <br>* *The process of updating the list is moderated to avoid duplicate entries or false identities. Once you have filled the form, please allow a few  hours before your name appears in the list.*
 </small>
