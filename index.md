@@ -40,26 +40,45 @@ Should you wish to join this Commitment, please fill in your name and academic i
 
 # Firmas/Signatories
 
- 1.  Coral Calero - Universidad de Castilla-La Mancha
- 2.  Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea
- 3.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
- 4.  María del Mar Gallardo Melgarejo - Universidad de Málaga
- 5.  Inmaculada García Fernández - Universidad de Málaga
- 6.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
- 7.  Juan Hernández - Universidad de Extremadura
- 8.  Paqui Lucio Carrasco - Universidad del País Vasco
- 9.  Fernando Orejas - Universitat Politècnica de Catalunya
-10.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha
-11.  Ernesto Pimentel - Universidad de Málaga
-12.  Isidro Ramos Salavert - Universitat Politècnica de València
-13.  Claudio de la Riva Álvarez - Universidad de Oviedo
-14.  Antonio Ruiz Cortés - Universidad de Sevilla
-15.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
-16.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
-17.  Ernest Teniente - Universitat Politècnica de Catalunya
-18.  Miguel Toro Bonilla - Universidad de Sevilla
-19.  Javier Tuya - Universidad de Oviedo
-20.  Antonio Vallecillo - Universidad de Málaga
+ 1.  Silvia Abrahão - Universitat Politècnica de València
+ 2.  Iñigo Aldalur Ceberio - Mondragon Unibertsitatea
+ 3.  Aitor Arrieta Marcos - Mondragon University
+ 4.  Carlos Blanco Bueno - Universidad de Cantabria
+ 5.  Lola Burgueño - Universitat Oberta de Catalunya
+ 6.  Coral Calero - Universidad de Castilla-La Mancha
+ 7.  Carlos Canal - Universidad de Málaga
+ 8.  Javier Criado Rodríguez - Universidad de Almería
+ 9.  Claudio de la Riva Álvarez - Universidad de Oviedo
+10.  Eduardo Fernández-Medina - Universidad de Castilla-La Mancha
+11.  Joan Fons Cors - Universitat Politècnica de València
+12.  María del Mar Gallardo Melgarejo - Universidad de Málaga
+13.  Inmaculada García Fernández - Universidad de Málaga
+14.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
+15.  Gonzalo Génova Fuster - Universidad Carlos III de Madrid
+16.  Pascual González López -  Universidad de Castilla-La Mancha
+17.  Juan Hernandez - Universidad de Extremadura
+18.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+19.  Paqui Lucio Carrasco - Universidad del País Vasco
+20.  Eduardo Mena - Universidad de Zaragoza
+21.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid / Instituto Imdea Software
+22.  Paula Muñoz - Universidad de Málaga
+23.  Fernando Orejas - Universitat Politècnica de Catalunya
+24.  Oscar Pastor López - Universitat Politècnica de València
+25.  Juan Pavón Mestras - Universidad Complutense de Madrid
+26.  Vicente Pelechano - Universitat Politècnica de València
+27.  Mario Piattini velthuis - Universidad de Castilla-La Mancha
+28.  Ernesto Pimentel - Universidad de Málaga
+29.  Elvira Pino Blanco - Universitat Politècnica de Catalunya
+30.  Isidro Ramos Salavert - Universitat Politècnica de València
+31.  Antonia Mª Reina Quintero - Universidad de Sevilla
+32.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
+33.  Antonio Ruiz-Cortés - Universidad de Sevilla
+34.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
+35.  Ernest Teniente - Universitat Politècnica de Catalunya
+36.  Miguel Toro Bonilla - Universidad de Sevilla
+37.  Pablo Trinidad Martín-Arroyo - Universidad de Sevilla
+38.  Javier  Troya  - Universidad de Málaga 
+39.  Javier Tuya - Universidad de Oviedo
 
 
 <hr>
@@ -86,4 +105,4 @@ Research ethics: “Ethics are a personal code of conduct based on respect for o
 
 <hr>
 
-<small>Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un [correo](mailto:av@uma.es).<br>Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es).</small>
+<small>* Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un [correo](mailto:av@uma.es).<br>* Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es).</small>
