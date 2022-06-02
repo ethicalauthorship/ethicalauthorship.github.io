@@ -103,6 +103,9 @@ Research ethics: “Ethics are a personal code of conduct based on respect for o
 
 [8] F.T. Grifo, G.S. Russo, M. Otto. “Scientific Integrity. Best Practices for Designating Authorship.” US Environmental Protection Agency. 2016. [https://www.epa.gov/scientific-integrity/authorship-best-practices](https://www.epa.gov/scientific-integrity/authorship-best-practices) 
 
+[9] . Génova, H. Astudillo, A. Fraga. “The scientometric bubble considered harmful.” Science and Engineering Ethics 22(1):227-235, February 2016. [http://dx.doi.org/10.1007/s11948-015-9632-6](http://dx.doi.org/10.1007/s11948-015-9632-6) 
+
+
 <hr>
 
 <small>* Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un [correo](mailto:av@uma.es).<br>* Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es).</small>
