@@ -10,7 +10,7 @@ Desde esta perspectiva, explicitamos el siguiente compromiso a modo de buenas pr
 
 Para mostrar públicamente nuestro compromiso con la investigación, y en particular con la publicación de artículos científicos, los abajo firmantes nos comprometemos a respetar las siguientes buenas prácticas:
 
-- No publicar en revistas predadoras
+- No publicar en revistas depredadoras
 - No firmar artículos en los que no haya contribuido significativamente
 - No incluir citas a trabajos que no sean realmente necesarias (incluyendo las autocitas)
 - Defender, aplicar y promover estas prácticas en todos los ámbitos de evaluación en los que participe
@@ -86,4 +86,4 @@ Research ethics: “Ethics are a personal code of conduct based on respect for o
 
 <hr>
 
-<small>Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un correo [email](mailto:av@uma.es).  Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es)</small>
+<small>Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un [correo](mailto:av@uma.es).<br>Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es).</small>
