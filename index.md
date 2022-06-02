@@ -51,46 +51,54 @@ Should you wish to join this Commitment, please fill in your name and academic i
  9.  Carlos Canal - Universidad de Málaga
 10.  Javier Criado Rodríguez - Universidad de Almería
 11.  Claudio de la Riva Álvarez - Universidad de Oviedo
-12.  Eduardo Fernández-Medina - Universidad de Castilla-La Mancha
-13.  Joan Fons Cors - Universitat Politècnica de València
-14.  María del Mar Gallardo Melgarejo - Universidad de Málaga
-15.  Inmaculada García Fernández - Universidad de Málaga
-16.  David García Rosado - Universidad de Castilla-La Mancha
-17.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
-18.  Gonzalo Génova Fuster - Universidad Carlos III de Madrid
-19.  Pascual González López -  Universidad de Castilla-La Mancha
-20.  Cathy Pamela Guevara Vega - Universidad Técnica del Norte y Universidad de Sevilla
-21.  Juan Hernandez - Universidad de Extremadura
-22.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
-23.  Paqui Lucio Carrasco - Universidad del País Vasco
-24.  Octavio Martín Díaz - Universidad de Sevilla
-25.  Eduardo Mena - Universidad de Zaragoza
-26.  Sergio Morales García - Universitat Oberta de Catalunya
-27.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid / Instituto Imdea Software
-28.  Paula Muñoz - Universidad de Málaga
-29.  Fernando Orejas - Universitat Politècnica de Catalunya
-30.  Oscar Pastor López - Universitat Politècnica de València
-31.  Juan Pavón Mestras - Universidad Complutense de Madrid
-32.  Vicente Pelechano - Universitat Politècnica de València
-33.  Mario Piattini velthuis - Universidad de Castilla-La Mancha
-34.  Ernesto Pimentel - Universidad de Málaga
-35.  Elvira Pino Blanco - Universitat Politècnica de Catalunya
-36.  Isidro Ramos Salavert - Universitat Politècnica de València
-37.  Antonia Mª Reina Quintero - Universidad de Sevilla
-38.  José Raúl Romero Salguero - Universidad de Córdoba
-39.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
-40.  Antonio Ruiz-Cortés - Universidad de Sevilla
-41.  Pablo Sánchez Barreiro - Universidad de Cantabria
-42.  Luis Enrique Sánchez Crespo - Universidad de Castilla-la Mancha
-43.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
-44.  Manuel Angel Serrano Martin - Universidad de Castilla - La Mancha
-45.  Ernest Teniente - Universitat Politècnica de Catalunya
-46.  Miguel Toro Bonilla - Universidad de Sevilla
-47.  Pablo Trinidad Martín-Arroyo - Universidad de Sevilla
-48.  Javier Troya  - Universidad de Málaga 
-49.  Javier Tuya - Universidad de Oviedo
-50.  Narseo Vallina-Rodriguez - IMDEA Networks Institute
-51.  J. Ángel Velázquez Iturbide - Universidad Rey Juan Carlos
+12.  Paloma Diaz Perez - Universidad Carlos III de Madrid
+13.  Eduardo Fernández-Medina - Universidad de Castilla-La Mancha
+14.  Joan Fons Cors - Universitat Politècnica de València
+15.  Xavier Franch - Universitat Politècnica de Catalunya
+16.  María del Mar Gallardo Melgarejo - Universidad de Málaga
+17.  Inmaculada García Fernández - Universidad de Málaga
+18.  Baltasar García Perez-Schofield - Universidad de Vigo
+19.  David García Rosado - Universidad de Castilla-La Mancha
+20.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
+21.  Gonzalo Génova Fuster - Universidad Carlos III de Madrid
+22.  Cristina Gómez Seoane - Universitat Politècnica de Catalunya
+23.  Pascual González López -  Universidad de Castilla-La Mancha
+24.  Cathy Pamela Guevara Vega - Universidad Técnica del Norte y Universidad de Sevilla
+25.  Juan Hernandez - Universidad de Extremadura
+26.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+27.  Luis Iribarne - Universidad de Almería
+28.  Paqui Lucio Carrasco - Universidad del País Vasco
+29.  Octavio Martín Díaz - Universidad de Sevilla
+30.  Eduardo Mena - Universidad de Zaragoza
+31.  Sergio Morales García - Universitat Oberta de Catalunya
+32.  Ana M. Moreno - Universidad Politécnica de Madrid
+33.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid / Instituto Imdea Software
+34.  Paula Muñoz - Universidad de Málaga
+35.  Fernando Orejas - Universitat Politècnica de Catalunya
+36.  Oscar Pastor López - Universitat Politècnica de València
+37.  Juan Pavón Mestras - Universidad Complutense de Madrid
+38.  Vicente Pelechano - Universitat Politècnica de València
+39.  Mario Piattini velthuis - Universidad de Castilla-La Mancha
+40.  Ernesto Pimentel - Universidad de Málaga
+41.  Elvira Pino Blanco - Universitat Politècnica de Catalunya
+42.  Isidro Ramos Salavert - Universitat Politècnica de València
+43.  Antonia Mª Reina Quintero - Universidad de Sevilla
+44.  José Raúl Romero Salguero - Universidad de Córdoba
+45.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
+46.  Antonio Ruiz-Cortés - Universidad de Sevilla
+47.  Pablo Sánchez Barreiro - Universidad de Cantabria
+48.  Luis Enrique Sánchez Crespo - Universidad de Castilla-la Mancha
+49.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
+50.  Manuel Angel Serrano Martin - Universidad de Castilla - La Mancha
+51.  Ernest Teniente - Universitat Politècnica de Catalunya
+52.  Miguel Toro Bonilla - Universidad de Sevilla
+53.  Victoria Torres Bosch - Universitat Politècnica de València
+54.  Pablo Trinidad Martín-Arroyo - Universidad de Sevilla
+55.  Javier  Troya  - Universidad de Málaga 
+56.  Javier Tuya - Universidad de Oviedo
+57.  María-Cruz Valiente Blázquez - Universidad Complutense de Madrid
+58.  Narseo Vallina-Rodriguez - IMDEA Networks Institute
+59.  J. Ángel Velázquez Iturbide - Universidad Rey Juan Carlos
 
 
 <hr>
