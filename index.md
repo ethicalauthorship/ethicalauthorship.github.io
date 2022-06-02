@@ -42,43 +42,55 @@ Should you wish to join this Commitment, please fill in your name and academic i
 
  1.  Silvia Abrahão - Universitat Politècnica de València
  2.  Iñigo Aldalur Ceberio - Mondragon Unibertsitatea
- 3.  Aitor Arrieta Marcos - Mondragon University
- 4.  Carlos Blanco Bueno - Universidad de Cantabria
- 5.  Lola Burgueño - Universitat Oberta de Catalunya
- 6.  Coral Calero - Universidad de Castilla-La Mancha
- 7.  Carlos Canal - Universidad de Málaga
- 8.  Javier Criado Rodríguez - Universidad de Almería
- 9.  Claudio de la Riva Álvarez - Universidad de Oviedo
-10.  Eduardo Fernández-Medina - Universidad de Castilla-La Mancha
-11.  Joan Fons Cors - Universitat Politècnica de València
-12.  María del Mar Gallardo Melgarejo - Universidad de Málaga
-13.  Inmaculada García Fernández - Universidad de Málaga
-14.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
-15.  Gonzalo Génova Fuster - Universidad Carlos III de Madrid
-16.  Pascual González López -  Universidad de Castilla-La Mancha
-17.  Juan Hernandez - Universidad de Extremadura
-18.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
-19.  Paqui Lucio Carrasco - Universidad del País Vasco
-20.  Eduardo Mena - Universidad de Zaragoza
-21.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid / Instituto Imdea Software
-22.  Paula Muñoz - Universidad de Málaga
-23.  Fernando Orejas - Universitat Politècnica de Catalunya
-24.  Oscar Pastor López - Universitat Politècnica de València
-25.  Juan Pavón Mestras - Universidad Complutense de Madrid
-26.  Vicente Pelechano - Universitat Politècnica de València
-27.  Mario Piattini velthuis - Universidad de Castilla-La Mancha
-28.  Ernesto Pimentel - Universidad de Málaga
-29.  Elvira Pino Blanco - Universitat Politècnica de Catalunya
-30.  Isidro Ramos Salavert - Universitat Politècnica de València
-31.  Antonia Mª Reina Quintero - Universidad de Sevilla
-32.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
-33.  Antonio Ruiz-Cortés - Universidad de Sevilla
-34.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
-35.  Ernest Teniente - Universitat Politècnica de Catalunya
-36.  Miguel Toro Bonilla - Universidad de Sevilla
-37.  Pablo Trinidad Martín-Arroyo - Universidad de Sevilla
-38.  Javier  Troya  - Universidad de Málaga 
-39.  Javier Tuya - Universidad de Oviedo
+ 3.  Jose María Alvarez Rodríguez - Universidad Carlos III de Madrid
+ 4.  Aitor Arrieta Marcos - Mondragon University
+ 5.  Carlos Blanco Bueno - Universidad de Cantabria
+ 6.  Lola Burgueño - Universitat Oberta de Catalunya
+ 7.  Jordi Cabot - ICREA
+ 8.  Coral Calero - Universidad de Castilla-La Mancha
+ 9.  Carlos Canal - Universidad de Málaga
+10.  Javier Criado Rodríguez - Universidad de Almería
+11.  Claudio de la Riva Álvarez - Universidad de Oviedo
+12.  Eduardo Fernández-Medina - Universidad de Castilla-La Mancha
+13.  Joan Fons Cors - Universitat Politècnica de València
+14.  María del Mar Gallardo Melgarejo - Universidad de Málaga
+15.  Inmaculada García Fernández - Universidad de Málaga
+16.  David García Rosado - Universidad de Castilla-La Mancha
+17.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
+18.  Gonzalo Génova Fuster - Universidad Carlos III de Madrid
+19.  Pascual González López -  Universidad de Castilla-La Mancha
+20.  Cathy Pamela Guevara Vega - Universidad Técnica del Norte y Universidad de Sevilla
+21.  Juan Hernandez - Universidad de Extremadura
+22.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+23.  Paqui Lucio Carrasco - Universidad del País Vasco
+24.  Octavio Martín Díaz - Universidad de Sevilla
+25.  Eduardo Mena - Universidad de Zaragoza
+26.  Sergio Morales García - Universitat Oberta de Catalunya
+27.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid / Instituto Imdea Software
+28.  Paula Muñoz - Universidad de Málaga
+29.  Fernando Orejas - Universitat Politècnica de Catalunya
+30.  Oscar Pastor López - Universitat Politècnica de València
+31.  Juan Pavón Mestras - Universidad Complutense de Madrid
+32.  Vicente Pelechano - Universitat Politècnica de València
+33.  Mario Piattini velthuis - Universidad de Castilla-La Mancha
+34.  Ernesto Pimentel - Universidad de Málaga
+35.  Elvira Pino Blanco - Universitat Politècnica de Catalunya
+36.  Isidro Ramos Salavert - Universitat Politècnica de València
+37.  Antonia Mª Reina Quintero - Universidad de Sevilla
+38.  José Raúl Romero Salguero - Universidad de Córdoba
+39.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
+40.  Antonio Ruiz-Cortés - Universidad de Sevilla
+41.  Pablo Sánchez Barreiro - Universidad de Cantabria
+42.  Luis Enrique Sánchez Crespo - Universidad de Castilla-la Mancha
+43.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
+44.  Manuel Angel Serrano Martin - Universidad de Castilla - La Mancha
+45.  Ernest Teniente - Universitat Politècnica de Catalunya
+46.  Miguel Toro Bonilla - Universidad de Sevilla
+47.  Pablo Trinidad Martín-Arroyo - Universidad de Sevilla
+48.  Javier Troya  - Universidad de Málaga 
+49.  Javier Tuya - Universidad de Oviedo
+50.  Narseo Vallina-Rodriguez - IMDEA Networks Institute
+51.  J. Ángel Velázquez Iturbide - Universidad Rey Juan Carlos
 
 
 <hr>
