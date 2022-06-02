@@ -10,7 +10,7 @@ Desde esta perspectiva, explicitamos el siguiente compromiso a modo de buenas pr
 
 Para mostrar públicamente nuestro compromiso con la investigación, y en particular con la publicación de artículos científicos, los abajo firmantes nos comprometemos a respetar las siguientes buenas prácticas:
 
-- No publicar en revistas predatorias
+- No publicar en revistas predadoras
 - No firmar artículos en los que no haya contribuido significativamente
 - No incluir citas a trabajos que no sean realmente necesarias (incluyendo las autocitas)
 - Defender, aplicar y promover estas prácticas en todos los ámbitos de evaluación en los que participe
@@ -40,9 +40,7 @@ Should you wish to join this Commitment, please fill in your name and academic i
 
 # Firmas/Signatories
 
-Lola Burgueño - Universitat Oberta de Catalunya
  1.  Coral Calero - Universidad de Castilla-La Mancha
-Carlos Canal - Universidad de Málaga
  2.  Oscar Díaz – Universidad del País Vasco/Euskal Herriko Unibertsitatea
  3.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
  4.  María del Mar Gallardo Melgarejo - Universidad de Málaga
@@ -50,7 +48,6 @@ Carlos Canal - Universidad de Málaga
  6.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
  7.  Juan Hernández - Universidad de Extremadura
  8.  Paqui Lucio Carrasco - Universidad del País Vasco
-Paula Muñoz - Universidad de Málaga
  9.  Fernando Orejas - Universitat Politècnica de Catalunya
 10.  Mario Piattini Velthuis - Universidad de Castilla-La Mancha
 11.  Ernesto Pimentel - Universidad de Málaga
@@ -61,7 +58,6 @@ Paula Muñoz - Universidad de Málaga
 16.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
 17.  Ernest Teniente - Universitat Politècnica de Catalunya
 18.  Miguel Toro Bonilla - Universidad de Sevilla
-Javier Troya - Universidad de Málaga
 19.  Javier Tuya - Universidad de Oviedo
 20.  Antonio Vallecillo - Universidad de Málaga
 
@@ -88,3 +84,8 @@ Research ethics: “Ethics are a personal code of conduct based on respect for o
 
 [8] F.T. Grifo, G.S. Russo, M. Otto. “Scientific Integrity. Best Practices for Designating Authorship.” US Environmental Protection Agency. 2016. [https://www.epa.gov/scientific-integrity/authorship-best-practices](https://www.epa.gov/scientific-integrity/authorship-best-practices) 
 
+<hr>
+
+Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un correo [mailto:av@uma.es](correo)
+
+Should you ever wish to remove your name from the list of signatories, just send us an [mailto:av@uma.es](email)
