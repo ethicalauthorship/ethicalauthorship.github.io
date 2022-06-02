@@ -86,6 +86,4 @@ Research ethics: “Ethics are a personal code of conduct based on respect for o
 
 <hr>
 
-Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un correo [mailto:av@uma.es](correo)
-
-Should you ever wish to remove your name from the list of signatories, just send us an [mailto:av@uma.es](email)
+<small>Si alguna vez desearas eliminar tu nombre de la lista de firmantes, basta con enviarnos un correo [email](mailto:av@uma.es).  Should you ever wish to remove your name from the list of signatories, just send us an [email](mailto:av@uma.es)</small>
