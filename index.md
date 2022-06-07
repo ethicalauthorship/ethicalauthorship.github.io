@@ -67,7 +67,7 @@ Should you wish to join this Commitment, please fill in your name and academic i
  25.  Amador Durán Toro - Universidad de Sevilla
  26.  María José Escalona Cuaresma - Universidad de Sevilla
  27.  Irene Bedilia Estrada Torres - Universidad de Sevilla
- 28.  Himar Fabelo - Fundación Canaria Instituto de Investigación Sanitaria de Canarias / Universidad de Las Palmas de Gran Canaria (Instituto Universitario de Mircoelectrónica Aplicada)
+ 28.  Himar Fabelo - Fund. Canaria Inst. Invest. Sanitaria de Canarias / Universidad de Las Palmas de Gran Canaria (Inst. Univ. Microelectrónica Aplicada)
  29.  Antonio Fernandez Anta - IMDEA Networks Institute
  30.  Eduardo Fernández-Medina - Universidad de Castilla-La Mancha
  31.  Marco Fiore - IMDEA Networks Institute
@@ -148,7 +148,6 @@ Should you wish to join this Commitment, please fill in your name and academic i
 106.  Miguel Ángel Vega Rodríguez - Universidad de Extremadura
 107.  J. Ángel Velázquez Iturbide - Universidad Rey Juan Carlos
 108.  Vadim Zaytsev - Universiteit Twente, The Netherlands
-
 
 <hr>
 # References/Further reading
