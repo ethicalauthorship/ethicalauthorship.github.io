@@ -137,7 +137,7 @@ Should you wish to join this Commitment, please fill in your name and academic i
 
 <hr>
 # References/Further reading
-Research ethics: “Ethics are a personal code of conduct based on respect for one's self, others and surroundings and is governed by the principles or assumptions underpinning the way individuals or organizations ought to conduct themselves. Research ethics involves the application of fundamental ethical principles to research activities which include the design and implementation of research, respect towards society and others, the use of resources and research outputs, scientific misconduct and the regulation of research.” [1]
+Research ethics: “*Ethics are a personal code of conduct based on respect for one's self, others and surroundings*. It is governed by the principles or assumptions underpinning the way individuals or organizations ought to conduct themselves. Research ethics involves the application of fundamental ethical principles to research activities, which include the design and implementation of research, respect towards society and others, the use of resources and research outputs, scientific misconduct and the regulation of research.” [1]
 
 ## References
 
