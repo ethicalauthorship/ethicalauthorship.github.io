@@ -14,10 +14,10 @@ Desde esta perspectiva, explicitamos el siguiente compromiso a modo de buenas pr
 
 Para mostrar públicamente nuestro compromiso con la investigación, y en particular con la publicación de artículos científicos, los abajo firmantes nos comprometemos a respetar las siguientes buenas prácticas:
 
-- No publicar en revistas depredadoras
-- No firmar artículos en los que no haya contribuido significativamente
-- No incluir citas a trabajos que no sean realmente necesarias (incluyendo las autocitas)
-- Defender, aplicar y promover estas prácticas en todos los ámbitos de evaluación en los que participe
+- <strong>No publicar en revistas depredadoras</strong>
+- <strong>No firmar artículos en los que no haya contribuido significativamente</strong>
+- <strong>No incluir citas a trabajos que no sean realmente necesarias (incluyendo las autocitas)</strong>
+- <strong>Defender, aplicar y promover estas prácticas en todos los ámbitos de evaluación en los que participe</strong>
 
 
 Pensamos que esos compromisos pueden servir de ejemplo y mandar el mensaje de que la mayoría de los científicos e investigadores están convencidos en que respetar ese conjunto de buenas prácticas no sólo es bueno, sino necesario para mantener la credibilidad y confianza en nuestro sistema de investigación.
@@ -44,10 +44,10 @@ From this perspective, a code of conduct could help to lay the foundations for e
 
 In order to declare our commitment to research, and in particular to ethics in the publication of scientific articles, we, the undersigned, hereby commit ourselves to respect the following publication practices:
 
-- I will not publish in predatory journals
-- I will not sign as author of a paper to which I have not significantly contributed
-- I will not include any unnecessary citations (especially self-citations)
-- I will advocate, apply and promote these practices in all research evaluations in which I participate
+- <strong>I will not publish in predatory journals<strong>
+- <strong>I will not sign as author of a paper to which I have not significantly contributed<strong>
+- <strong>I will not include any unnecessary citations (especially self-citations)<strong>
+- <strong>I will advocate, apply and promote these practices in all research evaluations in which I participate</strong>
 
 We believe that these commitments can serve as an example and send the message that most scientists and researchers are convinced that respecting this set of good practices is not only reasonable but necessary to maintain credibility and trust in our research system.
 
