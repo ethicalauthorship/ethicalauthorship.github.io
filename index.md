@@ -2,7 +2,11 @@
 
 *Versión en español*
 
-Recientemente, la declaración de San Francisco ([DORA](https://sfdora.org/)), el [Manifiesto de Leiden](http://www.leidenmanifesto.org/), los [Principios de Hong Kong](https://osf.io/m9abx/) y la [Declaración de Málaga](https://declaracionmalaga2020.github.io/) abordan temas claves para mejorar la evaluación de la investigación desde la perspectiva del evaluador. Complementariamente, pensamos que es también necesario considerar la responsabilidad del investigador individual.
+El fenómeno conocido como “publish-or-perish” sigue minando la actividad científica, que cada vez más se reduce a un proceso expreso y casi exclusivo de publicar artículos científicos independientemente del valor de su contribución, o de a quién le interesen. El hecho de que nuestra actividad investigadora sea básicamente juzgada “al peso” tiene mucha influencia en ese proceso.  Aún peor, empujados por esa creciente presión por publicar en un tiempo récord, son numerosos los investigadores que se ven tentados a recurrir a determinadas prácticas como son la publicación en revistas depredadoras o la inclusión de citas innecesarias para aumentar artificialmente sus indicadores.
+
+Uno de los problemas de las revistas depredadoras es que apenas siguen un proceso exhaustivo de revisión por pares, pero los artículos que publican pasan a formar parte del archivo científico. Esto no sólo socava el proceso científico, ya que los expertos no evalúan los artículos, sino que está erosionando su acervo. Estas prácticas, junto con el uso de autocitas innecesarias o la inclusión de autores en los artículos para incrementar su currículo, pueden minar también la confianza en la ciencia y en los propios científicos, cuyas cualificaciones y promociones están comenzando a ser cuestionadas.
+
+Recientemente, muchas instituciones competentes están tratando el problema con iniciativas como la declaración de San Francisco ([DORA](https://sfdora.org/)), el [Manifiesto de Leiden](http://www.leidenmanifesto.org/), los [Principios de Hong Kong](https://osf.io/m9abx/) y la [Declaración de Málaga](https://declaracionmalaga2020.github.io/), que abordan temas claves para mejorar la evaluación de la investigación desde la perspectiva del evaluador.  Complementariamente a estas iniciativas institucionales, pensamos que es importante concienciar también a los propios investigadores – y, sobre todo, a los más jóvenes – de la relevancia de cuidar las buenas prácticas científicas y respetar la profesión. 
 
 Desde esta perspectiva, explicitamos el siguiente compromiso a modo de buenas prácticas:
 
@@ -15,6 +19,9 @@ Para mostrar públicamente nuestro compromiso con la investigación, y en partic
 - No incluir citas a trabajos que no sean realmente necesarias (incluyendo las autocitas)
 - Defender, aplicar y promover estas prácticas en todos los ámbitos de evaluación en los que participe
 
+
+Pensamos que esos compromisos pueden servir de ejemplo y mandar el mensaje de que la mayoría de los científicos e investigadores están convencidos en que respetar ese conjunto de buenas prácticas no sólo es bueno, sino necesario para mantener la credibilidad y confianza en nuestro sistema de investigación.
+
 Si quieres sumarte a este compromiso, rellena por favor tu nombre, apellidos e institución académica en el siguiente formulario:
 
 [https://forms.gle/oR5bCNV4EG3ffM6d7](https://forms.gle/oR5bCNV4EG3ffM6d7)
@@ -22,7 +29,15 @@ Si quieres sumarte a este compromiso, rellena por favor tu nombre, apellidos e i
 <hr>
 *English version*
 
-The [DORA Declaration](https://sfdora.org/), the [Leiden Manifesto](http://www.leidenmanifesto.org/), the [Hong Kong Principales](https://osf.io/m9abx/) and the [Málaga Declaration](https://declaracionmalaga2020.github.io/) address core issues to improve research evaluation from the point of view of evaluators. Complementarily, we firmly believe that the responsibility of the individual researchers should be considered, too. 
+
+The phenomenon known as "publish-or-perish" continues to undermine scientific activity, which is progressively becoming a process of publishing scientific articles regardless of the value of their contribution, or who can be interested in them. The fact that our research activity is basically judged "by weight" has a strong influence on this process.  Worse still, under increasing pressure to publish in record time, many researchers are tempted to resort to practices such as publishing in predatory journals or including unnecessary citations to artificially increase their research indicators.
+
+One of the problems with predatory journals is that they do not normally follow a thorough peer review process, but the articles they publish become part of the scientific literature. This not only undermines the scientific process, since articles are not properly evaluated by experts, but it is eroding the scientific archive. These practices, along with the use of unnecessary self-citation or the inclusion of authors in articles to boost their CVs, can also undermine confidence in science and in the scientists themselves, whose qualifications and promotions are beginning to be questioned.
+
+Recently, many leading institutions are addressing the problem with initiatives such as the [DORA Declaration](https://sfdora.org/), the [Leiden Manifesto](http://www.leidenmanifesto.org/), the [Hong Kong Principales](https://osf.io/m9abx/) and the [Málaga Declaration](https://declaracionmalaga2020.github.io/), which aim to improve the research evaluation process from the point of view of evaluators. 
+
+Complementarily, we firmly believe that the responsibility of the individual researchers should be considered, too. It is also important to raise awareness among researchers themselves - and especially among younger researchers - of the importance of good scientific practice and respect for the profession 
+
 From this perspective, a code of conduct could help to lay the foundations for ethical research. 
 
 ## Commitment to Ethics in Scientific Publishing
@@ -33,6 +48,8 @@ In order to declare our commitment to research, and in particular to ethics in t
 - I will not sign as author of a paper to which I have not significantly contributed
 - I will not include any unnecessary citations (especially self-citations)
 - I will advocate, apply and promote these practices in all research evaluations in which I participate
+
+We believe that these commitments can serve as an example and send the message that most scientists and researchers are convinced that respecting this set of good practices is not only reasonable but necessary to maintain credibility and trust in our research system.
 
 Should you wish to join this Commitment, please fill in your name and academic institution in the following form.
 
