@@ -113,84 +113,88 @@ Should you wish to join this Commitment, please fill in your name and academic i
  54.  Félix Óscar García Rubio - Universidad de Castilla-La Mancha
  55.  José Daniel García Sánchez - Universidad Carlos III de Madrid
  56.  Jose Garcia-Alonso - Universidad de Extremadura
- 57.  Gonzalo Génova Fuster - Universidad Carlos III de Madrid
- 58.  Cristina Gómez Seoane - Universitat Politècnica de Catalunya
- 59.  Pablo Gómez-Abajo - Universidad Autónoma de Madrid
- 60.  María Teresa González Aparicio - Universidad de Oviedo
- 61.  Leocadio González Casado - Universidad de Almería
- 62.  Pascual González López -  Universidad de Castilla-La Mancha
- 63.  Angeles González Navarro - Universidad de Málaga
- 64.  Cathy Pamela Guevara Vega - Universidad Técnica del Norte y Universidad de Sevilla
- 65.  Juan Hernandez - Universidad de Extremadura
- 66.  José Miguel Horcas Aguilera - Universidad de Málaga
- 67.  Javier Hormigo Aguilar - Universidad de Málaga
- 68.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
- 69.  Luis Iribarne - Universidad de Almería
- 70.  Andrés Jiménez Ramírez - Universidad de Sevilla
- 71.  Natalia Juristo - Universidad Politécnica de Madrid
- 72.  Manal Kharbouch - Universidad de Murcia
- 73.  Susana Ladra - Universidade da Coruña
- 74.  Paqui Lucio Carrasco - Universidad del País Vasco
- 75.  Fernando Macías - IMDEA Software Institute
- 76.  Vincenzo Mancuso - IMDEA Networks Institute
- 77.  Josep Maria Marco-Simó - Universitat Oberta de Catalunya
- 78.  Octavio Martín Díaz - Universidad de Sevilla
- 79.  Paloma Martínez Fernández - Universidad Carlos III de Madrid
- 80.  Carlos-D. Martínez-Hinarejos - Universitat Politècnica de València
- 81.  Eduardo Mena - Universidad de Zaragoza
- 82.  Eva Millán - Universidad de Málaga
- 83.  Sergio Morales García - Universitat Oberta de Catalunya
- 84.  Jesús Morán Barbón - Universidad de Oviedo
- 85.  Ana M. Moreno - Universidad Politécnica de Madrid
- 86.  Lourdes Moreno López - Universidad Carlos III de Madrid
- 87.  Nathalie Moreno Vergara - Universidad de Málaga 
- 88.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid / Instituto Imdea Software
- 89.  Carlos Müller Cejás - Universidad de Sevilla
- 90.  Paula Muñoz - Universidad de Málaga
- 91.  Elena María Navarro Martínez - Universidad de Castilla-La Mancha
- 92.  José Antonio Onieva González - Universidad de Málaga
- 93.  Juan Manuel Orduña Huertas - Universidad de Valencia
- 94.  Fernando Orejas - Universitat Politècnica de Catalunya
- 95.  José Ramón Paramá Gabía - Universidade da Coruña
- 96.  Oscar Pastor López - Universitat Politècnica de València
- 97.  Juan Pavón Mestras - Universidad Complutense de Madrid
- 98.  José Ignacio Peláez Sánchez - Universidad de Málaga
- 99.  Vicente Pelechano - Universitat Politècnica de València
-100.  Juanan Pereira Varela - Universidad del País Vasco/Euskal Herriko Unibertsitatea
-101.  Juan José Pérez Sánchez - Universidad de Murcia
-102.  Mario Piattini velthuis - Universidad de Castilla-La Mancha
-103.  Ernesto Pimentel - Universidad de Málaga
-104.  Elvira Pino Blanco - Universitat Politècnica de Catalunya
-105.  Andrés Prados Torreblanca - Universidad Politécnica de Madrid
-106.  Isidro Ramos Salavert - Universitat Politècnica de València
-107.  Antonia Mª Reina Quintero - Universidad de Sevilla
-108.  Miguel Ángel Rodríguez Luaces - Universidade da Coruña
-109.  José Raúl Romero Salguero - Universidad de Córdoba
-110.  David Ruiz - Universidad de Sevilla
-111.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
-112.  Antonio Ruiz-Cortés - Universidad de Sevilla
-113.  Ángeles Saavedra Places - Universidade da Coruña
-114.  Pablo Sánchez Barreiro - Universidad de Cantabria
-115.  Luis Enrique Sánchez Crespo - Universidad de Castilla-la Mancha
-116.  Josep Salvador Sánchez Garreta - Universitat Jaume I
-117.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
-118.  José Rodrigo Sanjurjo Amado - Universidade da Coruña
-119.  Sergio Segura Rueda - Universidad de Sevilla
-120.  Manuel Angel Serrano Martin - Universidad de Castilla - La Mancha
-121.  Iago Suárez - New Horizon Technologies
-122.  Juan Tapiador - Universidad Carlos III de Madrid
-123.  Ernest Teniente - Universitat Politècnica de Catalunya
-124.  Francisco Tirado Fernández - Universidad Complutense de Madrid
-125.  Miguel Toro Bonilla - Universidad de Sevilla
-126.  Victoria Torres Bosch - Universitat Politècnica de València
-127.  Pablo Trinidad Martín-Arroyo - Universidad de Sevilla
-128.  Javier  Troya  - Universidad de Málaga 
-129.  Javier Tuya - Universidad de Oviedo
-130.  María-Cruz Valiente Blázquez - Universidad Complutense de Madrid
-131.  Narseo Vallina-Rodriguez - IMDEA Networks Institute
-132.  Miguel Ángel Vega Rodríguez - Universidad de Extremadura
-133.  J. Ángel Velázquez Iturbide - Universidad Rey Juan Carlos
-134.  Vadim Zaytsev - Universiteit Twente, The Netherlands
+ 57.  Xabier Garmendia - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+ 58.  Gonzalo Génova Fuster - Universidad Carlos III de Madrid
+ 59.  Cristina Gómez Seoane - Universitat Politècnica de Catalunya
+ 60.  Pablo Gómez-Abajo - Universidad Autónoma de Madrid
+ 61.  María Teresa González Aparicio - Universidad de Oviedo
+ 62.  Leocadio González Casado - Universidad de Almería
+ 63.  Pascual González López -  Universidad de Castilla-La Mancha
+ 64.  Angeles González Navarro - Universidad de Málaga
+ 65.  Cathy Pamela Guevara Vega - Universidad Técnica del Norte y Universidad de Sevilla
+ 66.  Juan Hernandez - Universidad de Extremadura
+ 67.  José Miguel Horcas Aguilera - Universidad de Málaga
+ 68.  Javier Hormigo Aguilar - Universidad de Málaga
+ 69.  Arantza Illarramendi - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+ 70.  Luis Iribarne - Universidad de Almería
+ 71.  Andrés Jiménez Ramírez - Universidad de Sevilla
+ 72.  Natalia Juristo - Universidad Politécnica de Madrid
+ 73.  Manal Kharbouch - Universidad de Murcia
+ 74.  Susana Ladra - Universidade da Coruña
+ 75.  Paqui Lucio Carrasco - Universidad del País Vasco
+ 76.  Fernando Macías - IMDEA Software Institute
+ 77.  Vincenzo Mancuso - IMDEA Networks Institute
+ 78.  Josep Maria Marco-Simó - Universitat Oberta de Catalunya
+ 79.  Octavio Martín Díaz - Universidad de Sevilla
+ 80.  Paloma Martínez Fernández - Universidad Carlos III de Madrid
+ 81.  Carlos-D. Martínez-Hinarejos - Universitat Politècnica de València
+ 82.  Eduardo Mena - Universidad de Zaragoza
+ 83.  Eva Millán - Universidad de Málaga
+ 84.  Sergio Morales García - Universitat Oberta de Catalunya
+ 85.  Jesús Morán Barbón - Universidad de Oviedo
+ 86.  Ana M. Moreno - Universidad Politécnica de Madrid
+ 87.  Lourdes Moreno López - Universidad Carlos III de Madrid
+ 88.  Nathalie Moreno Vergara - Universidad de Málaga 
+ 89.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid / Instituto Imdea Software
+ 90.  Carlos Müller Cejás - Universidad de Sevilla
+ 91.  Paula Muñoz - Universidad de Málaga
+ 92.  Elena María Navarro Martínez - Universidad de Castilla-La Mancha
+ 93.  José Antonio Onieva González - Universidad de Málaga
+ 94.  Juan Manuel Orduña Huertas - Universidad de Valencia
+ 95.  Fernando Orejas - Universitat Politècnica de Catalunya
+ 96.  María José Ortín Ibáñez - Universidad de Murcia
+ 97.  José Ramón Paramá Gabía - Universidade da Coruña
+ 98.  Oscar Pastor López - Universitat Politècnica de València
+ 99.  Juan Pavón Mestras - Universidad Complutense de Madrid
+100.  José Ignacio Peláez Sánchez - Universidad de Málaga
+101.  Vicente Pelechano - Universitat Politècnica de València
+102.  Juanan Pereira Varela - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+103.  Jeremías Pérez Contell - Universidad del País Vasco/Euskal Herriko Unibertsitatea
+104.  Juan José Pérez Sánchez - Universidad de Murcia
+105.  Mario Piattini velthuis - Universidad de Castilla-La Mancha
+106.  Ernesto Pimentel - Universidad de Málaga
+107.  Elvira Pino Blanco - Universitat Politècnica de Catalunya
+108.  Andrés Prados Torreblanca - Universidad Politécnica de Madrid
+109.  Isidro Ramos Salavert - Universitat Politècnica de València
+110.  Antonia Mª Reina Quintero - Universidad de Sevilla
+111.  Miguel Ángel Rodríguez Luaces - Universidade da Coruña
+112.  José Raúl Romero Salguero - Universidad de Córdoba
+113.  David Ruiz - Universidad de Sevilla
+114.  Francisco Ruiz Gonzalez - Universidad de Castilla-La Mancha
+115.  Antonio Ruiz-Cortés - Universidad de Sevilla
+116.  Ángeles Saavedra Places - Universidade da Coruña
+117.  Pablo Sánchez Barreiro - Universidad de Cantabria
+118.  Luis Enrique Sánchez Crespo - Universidad de Castilla-la Mancha
+119.  Josep Salvador Sánchez Garreta - Universitat Jaume I
+120.  Maria-Ribera Sancho Samsó - Universitat Politècnica de Catalunya
+121.  José Rodrigo Sanjurjo Amado - Universidade da Coruña
+122.  Sergio Segura Rueda - Universidad de Sevilla
+123.  Manuel Angel Serrano Martin - Universidad de Castilla - La Mancha
+124.  Iago Suárez - New Horizon Technologies
+125.  María José Suárez-Cabal - Universidad de Oviedo
+126.  Juan Tapiador - Universidad Carlos III de Madrid
+127.  Ernest Teniente - Universitat Politècnica de Catalunya
+128.  Francisco Tirado Fernández - Universidad Complutense de Madrid
+129.  Miguel Toro Bonilla - Universidad de Sevilla
+130.  Victoria Torres Bosch - Universitat Politècnica de València
+131.  Pablo Trinidad Martín-Arroyo - Universidad de Sevilla
+132.  Javier  Troya  - Universidad de Málaga 
+133.  Javier Tuya - Universidad de Oviedo
+134.  María-Cruz Valiente Blázquez - Universidad Complutense de Madrid
+135.  Narseo Vallina-Rodriguez - IMDEA Networks Institute
+136.  Miguel Ángel Vega Rodríguez - Universidad de Extremadura
+137.  J. Ángel Velázquez Iturbide - Universidad Rey Juan Carlos
+138.  Vadim Zaytsev - Universiteit Twente, The Netherlands
 
 
 <hr>
@@ -215,7 +219,9 @@ Research ethics: “*Ethics are a personal code of conduct based on respect for 
 
 [8] F.T. Grifo, G.S. Russo, M. Otto. “Scientific Integrity. Best Practices for Designating Authorship.” US Environmental Protection Agency. 2016. [https://www.epa.gov/scientific-integrity/authorship-best-practices](https://www.epa.gov/scientific-integrity/authorship-best-practices) 
 
-[9] . Génova, H. Astudillo, A. Fraga. “The scientometric bubble considered harmful.” Science and Engineering Ethics 22(1):227-235, February 2016. [http://dx.doi.org/10.1007/s11948-015-9632-6](http://dx.doi.org/10.1007/s11948-015-9632-6) 
+[9] G. Génova, H. Astudillo, A. Fraga. “The scientometric bubble considered harmful.” Science and Engineering Ethics 22(1):227-235, February 2016. [http://dx.doi.org/10.1007/s11948-015-9632-6](http://dx.doi.org/10.1007/s11948-015-9632-6) 
+
+[10] D.L. Parnas. “Stop the numbers game.” Commun. ACM 50(11):19-21, November 2007. [https://doi.org/10.1145/1297797.1297815](https://doi.org/10.1145/1297797.1297815)
 
 
 <hr>
