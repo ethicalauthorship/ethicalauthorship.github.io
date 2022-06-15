@@ -207,7 +207,8 @@ Should you wish to join this Commitment, please fill in your name and academic i
 148.  Narseo Vallina-Rodriguez - IMDEA Networks Institute
 149.  Miguel Ángel Vega Rodríguez - Universidad de Extremadura
 150.  J. Ángel Velázquez Iturbide - Universidad Rey Juan Carlos
-151.  Vadim Zaytsev - Universiteit Twente, The Netherlands
+151.  Xavier Vilajosana - Universitat Oberta de Catalunya
+152.  Vadim Zaytsev - Universiteit Twente, The Netherlands
 
 
 <hr>
