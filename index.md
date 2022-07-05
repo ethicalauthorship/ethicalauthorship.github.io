@@ -171,7 +171,7 @@ Should you wish to join this Commitment, please fill in your name and academic i
 112.  Lourdes Moreno López - Universidad Carlos III de Madrid
 113.  Nathalie Moreno Vergara - Universidad de Málaga 
 114.  Juan José Moreno-Navarro - Universidad Politécnica de Madrid/Instituto Imdea Software
-115.  Aurea Mota - UOC
+115.  Aurea Mota - Universitat Oberta de Catalunya
 116.  Carlos Müller Cejás - Universidad de Sevilla
 117.  Paula Muñoz - Universidad de Málaga
 118.  Elena María Navarro Martínez - Universidad de Castilla-La Mancha
